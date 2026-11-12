@@ -1,0 +1,6 @@
+/out/
+/release/
+/nova/config/build.local.env
+*.img
+!device/xiaomi/citrus/prebuilt/*.img
+/device/xiaomi/citrus/recovery/root/vendor/

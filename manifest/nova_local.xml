@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  NOVA Recovery local manifest.
+  Upstream twrp-12.1 already provides bootable/recovery (TeamWin) and
+  device/qcom/twrp-common. The citrus device tree and NOVA theme live in this
+  repository and are symlinked into the source tree by scripts/sync.sh, so no
+  extra projects are needed yet. Add pinned projects here (with an explicit
+  revision="<sha>") only after they are verified, and record them in
+  docs/ARCHITECTURE.md "External dependencies".
+-->
+<manifest>
+</manifest>
